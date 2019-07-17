@@ -1,0 +1,1 @@
+insert into diario.pessoa(cpf,nome,)
